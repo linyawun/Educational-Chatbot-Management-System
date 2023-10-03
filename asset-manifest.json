@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Educational-Chatbot-Management-System/static/css/main.58f8055a.css",
+    "main.js": "/Educational-Chatbot-Management-System/static/js/main.87e925ae.js",
+    "static/js/787.323cf742.chunk.js": "/Educational-Chatbot-Management-System/static/js/787.323cf742.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Educational-Chatbot-Management-System/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Educational-Chatbot-Management-System/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/chatbot logo.png": "/Educational-Chatbot-Management-System/static/media/chatbot logo.1578aec73e1f5e29a09d.png",
+    "index.html": "/Educational-Chatbot-Management-System/index.html",
+    "main.58f8055a.css.map": "/Educational-Chatbot-Management-System/static/css/main.58f8055a.css.map",
+    "main.87e925ae.js.map": "/Educational-Chatbot-Management-System/static/js/main.87e925ae.js.map",
+    "787.323cf742.chunk.js.map": "/Educational-Chatbot-Management-System/static/js/787.323cf742.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58f8055a.css",
+    "static/js/main.87e925ae.js"
+  ]
+}
